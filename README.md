@@ -25,3 +25,5 @@ https://github.com/sukkot23/R-Sitting
 ```
 
 [![](https://img.shields.io/github/downloads/sukkot23/R-Sitting/total?color=green&style=for-the-badge)](https://github.com//sukkot23/R-Sitting/releases/download/1.0.0/R-Sitting-1.0.0.jar)
+
+[! [조회] (https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon= github.svg & icon_color = % 23FFFFFF & title = view & edge_flat = false)] (https://hits.seeyoufarm.com)
