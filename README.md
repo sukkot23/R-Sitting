@@ -3,6 +3,12 @@ Minecraft Chair Plugin
 
 
 # 마인크래프트 의자 플러그인 
+   
+   
+[![](https://img.shields.io/github/downloads/sukkot23/R-Sitting/total?color=mint&label=download&style=plastic)](https://github.com//sukkot23/R-Sitting/releases/download/1.0.0/R-Sitting-1.0.0.jar)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsukkot23%2FR-Sitting&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+
 ## 플러그인 정보
 ```
 Name : R-Sitting
@@ -24,6 +30,5 @@ Update : 2021. 01. 01
 https://github.com/sukkot23/R-Sitting
 ```
 
-[![](https://img.shields.io/github/downloads/sukkot23/R-Sitting/total?color=green&style=for-the-badge)](https://github.com//sukkot23/R-Sitting/releases/download/1.0.0/R-Sitting-1.0.0.jar)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsukkot23%2FR-Sitting&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
+[![](https://img.shields.io/github/downloads/sukkot23/R-Sitting/total?color=green&style=for-the-badge)](https://github.com//sukkot23/R-Sitting/releases/download/1.0.0/R-Sitting-1.0.0.jar)
