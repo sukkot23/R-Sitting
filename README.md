@@ -13,14 +13,6 @@ MC-Version : 1.16.4
 Update : 2021. 01. 01
 ```   
 
-## 플러그인 사용법
-```
-/chair : 앉는 모션을 취합니다
-
-* 공중에서는 앉을 수 없습니다
-* 따로 권한을 요구하지 않습니다
-```
-
 </br>
 
 ```
@@ -33,6 +25,17 @@ Update : 2021. 01. 01
 
 https://github.com/sukkot23/R-Sitting
 ```
+
+</br></br>
+
+## 플러그인 사용법
+```
+/chair : 앉는 모션을 취합니다
+
+* 공중에서는 앉을 수 없습니다
+* 따로 권한을 요구하지 않습니다
+```
+
 
 
 [![](https://img.shields.io/github/downloads/sukkot23/R-Sitting/total?color=green&style=for-the-badge)](https://github.com//sukkot23/R-Sitting/releases/download/1.0.0/R-Sitting-1.0.0.jar)
