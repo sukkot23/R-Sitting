@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+    id 'kr.entree.spigradle' version '2.2.3'
+}
+
+group 'com.flora.chair'
+version '1.0.0'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly spigot('1.16.4')
+
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+}
+
+spigot {
+    name = 'R-Sitting'
+    version = '1.0.0'
+    apiVersion = 1.16
+    authors = ['sukkot']
+    commands {
+        chair {}
+    }
+}
+
+test {
+    useJUnitPlatform()
+}
