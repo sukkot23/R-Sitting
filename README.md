@@ -28,7 +28,7 @@ https://github.com/sukkot23/R-Sitting
 의자(Entity)를 생성하여, 앉는 모션을 취하는 플러그인 입니다
 ```
 
-## 명령어
+### 명령어
 ```
 /chair : 앉는 모션을 취합니다
 
