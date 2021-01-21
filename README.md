@@ -4,10 +4,10 @@
 
 ## 플러그인 정보
 ```
-Name : R-Sitting
-Version : 1.0.0
+      Name : R-Sitting
+   Version : 1.0.0
 MC-Version : 1.16.4
-Update : 2021. 01. 01
+    Update : 2021. 01. 01
 ```
 
 </br>
